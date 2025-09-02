@@ -3,7 +3,7 @@ class Cycod < Formula
   homepage "https://cycoddocs100.z13.web.core.windows.net/"
 
   url "https://github.com/robch/cycod/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "ef4027dea2db862401405ddc66a9892c30c3f39d3223203b467c1f78118b7ded"
+  sha256 "b01941fc638815b8e52ddfd13fa6c10ca4c9a24aef64febd34ebd3f47366ffa0"
   
   license "MIT" # change if different
   depends_on "dotnet"
