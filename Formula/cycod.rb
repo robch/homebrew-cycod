@@ -2,8 +2,8 @@ class Cycod < Formula
   desc "CYCODEV is an AI-powered CLI toolset that brings LLMs to your terminal"
   homepage "https://cycoddocs100.z13.web.core.windows.net/"
 
-  url "https://github.com/robch/cycod/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "b01941fc638815b8e52ddfd13fa6c10ca4c9a24aef64febd34ebd3f47366ffa0"
+  url "https://github.com/robch/cycod/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "3fe817db6e52bd94b695dab1705078999380718efd65bdf0425759ff76c41a98"
   
   license "MIT" # change if different
   depends_on "dotnet"
