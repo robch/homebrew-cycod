@@ -1,4 +1,4 @@
-class Cycod < Formula
+class Cycodmd < Formula
   desc "CYCODEV is an AI-powered CLI toolset that brings LLMs to your terminal"
   homepage "https://cycoddocs100.z13.web.core.windows.net/"
 
