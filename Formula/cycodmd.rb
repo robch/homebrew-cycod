@@ -2,7 +2,7 @@ class Cycodmd < Formula
   desc "Markdown companion for Cycod"
   homepage "https://github.com/robch/cycod"
   url "https://github.com/robch/cycod/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "<fill-me>"
+  sha256 "a02edbd8b1991cd743c27f5a3ab9f8c0a0743b91ca2b87c32df1a6b4d5137d0d"
   license "MIT"
 
   depends_on "dotnet" # or "dotnet@8" if you target a specific major
